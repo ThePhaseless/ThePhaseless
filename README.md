@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThePhaseless
+- 👋 Hi, I’m Jakob
 - 👀 I’m interested in learning and gamedev
 - 🌱 I’m currently learning how to survive on college and everything i will need to work 
 - 💞️ I’m looking to collaborate on quality of life changes
