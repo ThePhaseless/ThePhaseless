@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jakob
-- 👀 I’m interested in learning and gamedev
+- 👋 Hi, I’m Jacob
+- 👀 I’m interested in Full stack dev, microcontroller programming and latest tech.
 - 🌱 I’m currently learning how to survive on college and everything i will need to work 
 - 💞️ I’m looking to collaborate on quality of life changes
 - 📫 How to reach me: just say hi to me ^^
