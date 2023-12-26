@@ -22,5 +22,5 @@
 🐕 Fun fact
 </h2>
 <p>
-    My dogs breed is <i>(probably)</i> <b>Lapinporokoira</b> and it's a <i>finnish lapphund</i> that is still used to herd reindeers. Which is pretty unusual looking at the fact that I live in Poland.
+    My dogs breed is <i>(probably)</i> <b>Lapinporokoira</b> and it's a <i>finnish lapphund</i> that is still used to herd reindeers. Which is pretty unusual looking at the fact that we live in Poland.
 </p>
